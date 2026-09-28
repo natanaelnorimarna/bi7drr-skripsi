@@ -1,0 +1,11 @@
+bi7drr-skripsi/
+├── README.md
+├── LICENSE
+├── .gitignore
+├── requirements.txt
+├── data/
+│   ├── raw/
+│   │   └── BI7DRR.csv
+│   └── processed/
+└── src/
+    └── model_cir.py
